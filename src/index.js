@@ -4,8 +4,8 @@ import "./index.css";
 import Calculator from "./main/Calculator";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-<div>
-  <h1>Calculator</h1>
-  <Calculator />
-</div>
+  <div>
+    <h1>Calculator</h1>
+    <Calculator />
+  </div>
 );
